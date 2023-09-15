@@ -1,6 +1,6 @@
 {
   "name": "mitre-importer",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A library that provides import of data from MITRE Matrices",
   "main": "./dist/MitreAttack.js",
   "module": "./dist/MitreAttack.mjs",
@@ -31,7 +31,7 @@
     "typescript": "^5.2.2"
   },
   "repository": {
-    "url": "https://github.com/champdecarpes/mitre-attack-table-importer.git",
+    "url": "https://github.com/champdecarpes/mitre-importer.git",
     "type": "git"
   }
 }
